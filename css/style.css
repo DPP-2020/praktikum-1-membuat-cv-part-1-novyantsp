@@ -5,3 +5,22 @@ header {
   section {
     padding: 100px 0;
   }
+
+  li.hd{
+    list-style-type: none;
+  }
+
+  .skills {
+    text-align: right; /* Right-align text */
+    padding-top: 0px; /* Add top padding */
+    padding-bottom: 0px; /* Add bottom padding */
+    color: white; /* White text color */
+  }
+
+.html {width: 90%; background-color: #4CAF50;} /* Green */
+
+
+  .bar {
+    width: 100%; /* Full width */
+    background-color: #ddd; /* Grey background */
+}
